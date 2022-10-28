@@ -21,7 +21,7 @@ I'm an aspiring web developer and computer scientist
 
 📫 How to reach me 
 
-Email address: erioluwaolateju.com
+Email address: erioluwaolateju@gmail.com
 
 
 ### Links
