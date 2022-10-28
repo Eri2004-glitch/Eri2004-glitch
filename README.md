@@ -19,7 +19,9 @@ I'm an aspiring web developer and computer scientist
 
 👯‍♀️ I'm looking to collaborate on any Front-end development project
 
-📫 How to reach me Email address: erioluwaolateju.com
+📫 How to reach me 
+
+Email address: erioluwaolateju.com
 
 
 ### Links
