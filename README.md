@@ -45,3 +45,5 @@ Email address: erioluwaolateju@gmail.com
 ### Links
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@ErioluwaOlateju)
 
+[![linkedin](https://img.shields.io/badge/linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erioluwa-olateju-1b8b95298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
